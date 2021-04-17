@@ -617,5 +617,11 @@ hi! link shCommandSub NormalFg
 hi! link shDerefSpecial NormalFg
 hi! link shOperator NormalFg
 
+" Ruby
+hi! link rubyBoolean Keyword
+hi! link rubySymbol Keyword
+hi! link rubyKeyword Keyword
+hi! link rubyInstanceVariable number
+
 " help
 hi! link helpHyperTextJump Number
